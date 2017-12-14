@@ -35,3 +35,18 @@ document.getElementById("myDIV").innerHTML="你最近怎么样?";
 
 </body>
 </html>
+<html>
+<head>
+<script>
+function goBack()
+  {
+  window.history.back()
+  }
+</script>
+</head>
+<body>
+
+<input type="button" value="Back" onclick="goBack()">
+
+</body>
+</html>
