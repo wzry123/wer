@@ -21,16 +21,16 @@ function myFunction()
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>²ËÄñ½Ì³Ì(runoob.com)</title> 
+<title>èœé¸Ÿæ•™ç¨‹(runoob.com)</title> 
 </head>
 <body>
 
-<h1>ÎÒµÄ Web Ò³Ãæ</h1>
-<p id="demo">Ò»¸ö¶ÎÂä¡£</p>
-<div id="myDIV">Ò»¸ö DIV¡£</div>
+<h1>æˆ‘çš„ Web é¡µé¢</h1>
+<p id="demo">ä¸€ä¸ªæ®µè½ã€‚</p>
+<div id="myDIV">ä¸€ä¸ª DIVã€‚</div>
 <script>
-document.getElementById("demo").innerHTML="ÄãºÃ Dolly";
-document.getElementById("myDIV").innerHTML="Äã×î½üÔõÃ´Ñù?";
+document.getElementById("demo").innerHTML="ä½ å¥½ Dolly";
+document.getElementById("myDIV").innerHTML="ä½ æœ€è¿‘æ€ä¹ˆæ ·?";
 </script>
 
 </body>
@@ -47,6 +47,6 @@ function goBack()
 <body>
 
 <input type="button" value="Back" onclick="goBack()">
-
+<p>åˆ°æ­¤ä¸€æ¸¸</P>
 </body>
 </html>
